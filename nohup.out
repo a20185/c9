@@ -1,0 +1,5 @@
+Starting standalone
+Connect server listening at http://127.0.0.1:9001
+CDN: version standalone initialized /home/ubuntu/c9sdk/build
+Started '/home/ubuntu/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
